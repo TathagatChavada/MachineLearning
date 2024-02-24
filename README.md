@@ -6,7 +6,6 @@ Hey there! Welcome aboard this solo machine learning adventure! This readme will
 
 ## Roadmap
 
-Here's a suggested path to navigate your learning journey:
 
 ### Phase 1: Laying the Foundation (3-4 weeks)
 
